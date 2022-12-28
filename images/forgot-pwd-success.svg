@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="49.816" viewBox="0 0 65 49.816">
+  <g id="Group_2" data-name="Group 2" transform="translate(-785 -236)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-8)">
+      <g id="_296560_invite_share_envelope_send_letter_icon" data-name="296560_invite_share_envelope_send_letter_icon" transform="translate(650.509 75.401)">
+        <path id="Path_1" data-name="Path 1" d="M193.324,206.955l-14.546-15.773L193.338,176.6a.478.478,0,0,1,.816.338v29.7A.478.478,0,0,1,193.324,206.955Zm-22.216-8.089a4.451,4.451,0,0,1-3.15,1.307h-.038a4.54,4.54,0,0,1-3.207-1.327l-4.312-4.3-14.8,15.061a.478.478,0,0,0,.341.813h44.927a.478.478,0,0,0,.351-.8l-14.812-16.061Zm-3.188-2.04h0a1.187,1.187,0,0,0,.845-.351l22.023-22.061a.478.478,0,0,0-.338-.816H145.315a.478.478,0,0,0-.338.816l22.1,22.062A1.184,1.184,0,0,0,167.92,196.826Zm-25.429-19.013v29.016a.478.478,0,0,0,.819.335l14.723-14.988-14.726-14.7A.478.478,0,0,0,142.491,177.813Z" fill="#6660ab"/>
+      </g>
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(831 236)" fill="#489332" stroke="#fff" stroke-width="1">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="13" fill="none"/>
+      </g>
+    </g>
+    <path id="_9110873_check_mark_icon" data-name="9110873_check_mark_icon" d="M9.707,14.293,19,5l1.414,1.414L9.707,17.121,4,11.414,5.414,10Z" transform="translate(824 238)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>

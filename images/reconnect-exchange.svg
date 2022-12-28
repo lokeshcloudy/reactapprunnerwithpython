@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="20" viewBox="0 0 30 20">
+  <g id="Group_323" data-name="Group 323" transform="translate(-1134 -255.625)">
+    <path id="Icon_ionic-md-refresh" data-name="Icon ionic-md-refresh" d="M14.929,21.908a6.978,6.978,0,0,1,0-13.957,6.76,6.76,0,0,1,4.885,2.094l-3.722,3.722h8.141V5.625L21.5,8.358a9.292,9.292,0,1,0,2.384,9.109H21.424A6.929,6.929,0,0,1,14.929,21.908Z" transform="translate(1128.375 250)" fill="#6860ab"/>
+    <path id="Icon_metro-plus" data-name="Icon metro-plus" d="M15.273,6.845H10.766V2.338a.41.41,0,0,0-.41-.41H7.9a.41.41,0,0,0-.41.41V6.845H2.98a.41.41,0,0,0-.41.41V9.713a.41.41,0,0,0,.41.41H7.488v4.507a.41.41,0,0,0,.41.41h2.459a.41.41,0,0,0,.41-.41V10.123h4.507a.41.41,0,0,0,.41-.41V7.255A.41.41,0,0,0,15.273,6.845Z" transform="translate(1148.317 260.585)" fill="#f4a047"/>
+  </g>
+</svg>

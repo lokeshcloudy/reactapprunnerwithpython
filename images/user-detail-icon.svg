@@ -1,0 +1,14 @@
+<svg id="_103780_profile_user_icon" data-name="103780_profile_user_icon" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="background">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="26" height="26" fill="none"/>
+  </g>
+  <g id="user_x5F_profile">
+    <g id="Group_1" data-name="Group 1" transform="translate(3.188 15.938)">
+      <path id="Path_1" data-name="Path 1" d="M4,26.375H16.75V21.594A1.561,1.561,0,0,0,15.156,20H5.594A1.561,1.561,0,0,0,4,21.594Z" transform="translate(-4 -20)" fill="#fff"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(6.375 7.969)">
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(-0.375 0.031)" fill="#fff"/>
+    </g>
+    <path id="Path_2" data-name="Path 2" d="M14.674,0H0V25.5H19.125V4.45Zm-.332,1.923L17.2,4.781H14.342V1.923ZM1.594,23.906V1.592H12.75V6.374h4.781V23.906Z" fill="#fff"/>
+  </g>
+</svg>

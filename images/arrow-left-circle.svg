@@ -1,0 +1,5 @@
+<svg id="arrow-left-circle" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <path id="Path_269" data-name="Path 269" d="M10,18.75A8.75,8.75,0,1,0,1.25,10,8.75,8.75,0,0,0,10,18.75ZM10,20A10,10,0,1,0,0,10,10,10,0,0,0,10,20Z" fill="#fff" fill-rule="evenodd"/>
+  <path id="Path_270" data-name="Path 270" d="M14.46,17.835a.562.562,0,0,0,0-.8l-2.977-2.977,2.978-2.977a.563.563,0,1,0-.8-.8l-3.375,3.375a.563.563,0,0,0,0,.8l3.375,3.375a.562.562,0,0,0,.8,0Z" transform="translate(-4.312 -4.062)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Path_271" data-name="Path 271" d="M19.125,17.438a.562.562,0,0,0-.562-.562H12.938a.563.563,0,0,0,0,1.125h5.625A.562.562,0,0,0,19.125,17.438Z" transform="translate(-5.087 -7.438)" fill="#fff" fill-rule="evenodd"/>
+</svg>
