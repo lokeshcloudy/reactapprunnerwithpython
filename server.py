@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.DEBUG)
     
 @app.route("/")
 def root():
-  return send_from_directory('.', 'bootstrap.html')
+  return send_from_directory('.', 'index.html')
 
 @app.route("/data.json")
 def newroute():
